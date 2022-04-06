@@ -1,9 +1,9 @@
 import {useState} from 'react';
 
-function Home() {
+function Sobre() {
     return  (<div>
-        <h1>Home</h1>
-        <a href="/sobre">Acessar página Sobre</a>
+        <h1>Sobre</h1>
+        <a href="/">Acessar página home</a>
         
     </div>
     )    
